@@ -1,3 +1,5 @@
+export const metadata = { title: "About" };
+
 export default function About() {
   return (
     <main style={{ fontFamily: "system-ui, sans-serif", padding: 48, minHeight: "100vh", background: "#fff7ed", color: "#1c1917" }}>

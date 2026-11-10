@@ -1,3 +1,5 @@
+export const metadata = { title: "Projects" };
+
 import ProjectCard from "@/components/ProjectCard";
 import { projects } from "@/lib/projects";
 
